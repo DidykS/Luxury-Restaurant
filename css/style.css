@@ -1,0 +1,258 @@
+body {
+	font-family: 'Sintony', sans-serif;
+	color: #5c6369;
+}
+
+ul, li {
+	display: block;
+	padding: 0;
+	margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Playfair Display', serif;
+	font-weight: 700;
+	color: #14141d;
+}
+
+p {
+	line-height: 1.6em;
+}
+
+.menu {
+	margin-top: 10px;
+}
+
+.menu-item {
+	font-weight: 700;
+	font-size: 18px;
+}
+
+.menu-item a {
+	color: #2c465a;
+	text-transform: uppercase;
+	padding-left: 7px;
+}
+
+.cta {
+	background: #fea100;
+	color: #fff;
+	font-size: 14px;
+	border-radius: 5px;
+	border: 0;
+	text-transform: uppercase;
+	padding: 13px 0;
+	cursor: pointer;
+	width: 200px;
+	font-weight: 700;
+	margin-top: -5px;
+}
+
+.cta:hover {
+	color: #fff;
+	text-decoration: none;
+}
+
+
+.main-header {
+	padding: 24px 0;
+}
+
+.offer {
+	background: url(../img/first-bg.jpg) no-repeat center top;
+}
+
+.title {
+	padding: 210px 0;
+}
+
+.title-heading {
+	font-size: 56px;
+	font-family: 'Playfair Display', serif;
+	color: #fff;
+}
+
+.title-desc {
+	font-family: c
+	font-weight: 700;
+	font-size: 40px;
+	color: #fff;
+	margin-top: -10px;
+}
+
+.title-desc span {
+	color: #fea100;
+}
+
+.call {
+	background: #edf1f3;
+	border-bottom: 1px solid #dde3e7;
+	padding: 30px 0;
+}
+
+.phone-text {
+	background: url(../img/phone.png) no-repeat left center;
+	color: #14141d;
+	font-size: 14px;
+	text-transform: uppercase;
+	font-weight: 700;
+	width: 180px;
+	padding-left: 56px;
+}
+
+.phone-text span {
+	color: #fea100;
+	font-size: 16px;
+	display: block;
+	margin-top: -4px;
+}
+
+.phone-number {
+	font-size: 32px;
+	font-family: 'Playfair Display', serif;
+	font-weight: 700;
+	color: #14141d;
+	margin-left: 42px;
+	margin-top: -5px;
+}
+
+.about-food {
+	padding: 65px 0 100px;
+}
+
+.about-restaurant {
+	margin-top: 60px;
+}
+
+.about {
+	font-size: 35px;
+	margin-bottom: 25px;
+}
+
+.about-text {
+	 font-size: 14px;
+}
+
+.about-button {
+	width: 148px;
+	margin-top: 48px;
+}
+
+.food {
+
+}
+
+.food-item {
+	margin-bottom: 10px;
+}
+
+.food-down {
+	margin-top: 50px;
+}
+
+.special {
+	background: url(../img/third-bg.jpg) no-repeat center top;
+	padding-top: 80px;
+}
+
+.special-title {
+	font-size: 35px;
+	color: #fff;
+	text-align: center;
+}
+
+.card {
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 130px;
+}
+
+.card-images {
+	margin-bottom: 45px;
+}
+
+.card-title {
+	font-size: 26px;
+	margin-bottom: 10px;
+}
+
+.card-text {
+	font-size: 14px;
+	padding: 0 55px;
+}
+
+.border {
+	margin: 0 45px;
+}
+
+.details {
+	color: #14141d;
+	padding: 19px 0;
+}
+
+.detail	{
+	text-transform: uppercase;
+	font-size: 13px;
+	width: 78px;
+	border-right: 1px solid #e1e1e1;
+	margin-right: 18px;
+	font-weight: 700;
+}
+
+.detail span {
+	color: #fe4c8d;
+}
+
+.details-phone {
+	font-size: 26px;
+	font-family: 'Playfair Display', serif;
+}
+
+.details-price {
+	color: #fea100;
+	font-size: 30px;
+	font-family: 'Playfair Display', serif;
+	margin-left: 36px;
+}
+footer {
+	background-color: #373844;
+	color: #93989e;
+	font-size: 13px;
+	text-transform: uppercase;
+	padding: 72px 106px;
+}
+
+.items a {
+	width: 52px;
+	height: 52px;
+	display: block;
+	border-radius: 50%
+}
+
+.icons-fb a {
+	background: #3b5990 url(../img/fb.png) no-repeat center center;
+}
+
+.icons-twitter a {
+	background: #55acee url(../img/tw.png) no-repeat center center;
+	margin: 0 7px;
+}
+
+.icons-google a {
+	background: #dd4b39 url(../img/g.png) no-repeat center center;
+}
+
+.line {
+	background: #52535e;
+	margin-top: 50px;
+}
+
+.copy {
+	margin-top: 43px;
+}
+
+
+
+
+
+
